@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alexkkir
-- 👀 I’m interested in backend
+- 👀 I’m interested in backend and AI
 - 🌱 I’m currently learning how to dance 
 - 💞️ I’m looking to collaborate on any work
 - 📫 How to reach me? In telegram: @alexkkir
