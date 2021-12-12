@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Alexkkir
-- 👀 I’m interested in backend and AI
-- 🌱 I’m currently learning how to dance 
+- 👋 Hi, I’m @Alexkkir, MSU student of faculty of computer science
+- 👀 Interested in data compression, computer vision, optimal algorithms
+- 🌱 I’m currently learning how to make telegram bot
 - 💞️ I’m looking to collaborate on any work
 - 📫 How to reach me? In telegram: @alexkkir
 
