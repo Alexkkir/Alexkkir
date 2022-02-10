@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Alexkkir, MSU student of faculty of computer science
+- 👋 Hi, I’m @Alexkkir, MSU student of faculty of computer science, 
 - 👀 Interested in data compression, computer vision, optimal algorithms
-- 🌱 I’m currently working on telegram bot
+- 🌱 I’m currently working on saliency-aware metrics
 - 💞️ I’m looking to collaborate on any work
 - 📫 How to reach me? In telegram: @alexkkir
 
